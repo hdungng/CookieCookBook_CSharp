@@ -1,0 +1,15 @@
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net7.0\CookieCookBook.exe
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net7.0\CookieCookBook.deps.json
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net7.0\CookieCookBook.runtimeconfig.json
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net7.0\CookieCookBook.dll
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\bin\Debug\net7.0\CookieCookBook.pdb
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.csproj.AssemblyReference.cache
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.AssemblyInfoInputs.cache
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.AssemblyInfo.cs
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.csproj.CoreCompileInputs.cache
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.dll
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\refint\CookieCookBook.dll
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.pdb
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\CookieCookBook.genruntimeconfig.cache
+C:\Users\zhoan\source\repos\CookieCookBook\CookieCookBook\obj\Debug\net7.0\ref\CookieCookBook.dll
